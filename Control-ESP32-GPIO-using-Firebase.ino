@@ -1,13 +1,4 @@
-/*
-  Rui Santos & Sara Santos - Random Nerd Tutorials
-  Complete project details at our blog.
-    - ESP32: https://RandomNerdTutorials.com/firebase-control-esp32-gpios/
-    - ESP8266: https://RandomNerdTutorials.com/firebase-control-esp8266-nodemcu-gpios/
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-  Based in the RTDB Basic Example by Firebase-ESP-Client library by mobizt
-  https://github.com/mobizt/FirebaseClient/blob/main/examples/RealtimeDatabase/Get/Get.ino
-*/
+
 #define ENABLE_USER_AUTH
 #define ENABLE_DATABASE
 
